@@ -1,2 +1,2 @@
-# topinion-app
-Topinion App
+# Topinia-app
+Topinia App
